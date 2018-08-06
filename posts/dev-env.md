@@ -6,7 +6,7 @@ This is my personal guide to getting a working developer environment from scratc
 
 First off, open System Preferences and choose the dark appearance. This is **very** important!!
 
-After we have prevented eye strain, we need the Xcode Developer Tools. Although they come preinstalled with Xcode, you can also get them seperately to avoid a large download.
+After we have prevented eye strain, we need the Xcode Command Line Tools. Although they come preinstalled with Xcode, you can also get them seperately to avoid a large download.
 
 After this, we can install [Homebrew](https://brew.sh/), a macOS package manager. Run this script:
 
@@ -15,6 +15,26 @@ After this, we can install [Homebrew](https://brew.sh/), a macOS package manager
 ```
 
 With Homebrew, we can now install packages without messing up anything ourselves.
+
+## Internet
+
+I only need one browser to access the internet, Google Chrome, and extra to ensure my web content works on all browsers. Homebrew includes a handy cask feature, which will let us install all of them in one go.
+
+```bash
+brew cask install google-chrome firefox
+```
+
+Safari is not included for obvious reasons (it is preinstalled).
+
+We can go ahead and sign into Reddit and other websites using passwords from 1Password.
+
+## Chatting
+
+I use Discord and Slack to communicate. Luckily, Homebrew lets us install these too:
+
+```bash
+brew cask install discord slack
+```
 
 ## Node.js
 
