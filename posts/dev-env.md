@@ -107,4 +107,21 @@ Start up GitHub Desktop and configure:
 
 I usually clone the frequently used repos of mine to my disk as well.
 
+## Databases
+
+Now we can install [MariaDB](https://mariadb.com/) through Homebrew:
+
+```bash
+brew install mariadb
+brew services start mariadb
+```
+
+This will install MariaDB, then allow Homebrew to auto-start it.
+
+I use [Sequel Pro](https://sequelpro.com/), which is free despite its name, to interactively view and edit databases:
+
+```bash
+brew cask install sequel-pro
+```
+
 ## Conclusion
