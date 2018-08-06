@@ -4,7 +4,9 @@ This is my personal guide to getting a working developer environment from scratc
 
 ## Getting Started
 
-To get started, we need the Xcode Developer Tools. Although they come preinstalled with Xcode, you can also get them seperately to avoid a large download.
+First off, open System Preferences and choose the dark appearance. This is **very** important!!
+
+After we have prevented eye strain, we need the Xcode Developer Tools. Although they come preinstalled with Xcode, you can also get them seperately to avoid a large download.
 
 After this, we can install [Homebrew](https://brew.sh/), a macOS package manager. Run this script:
 
