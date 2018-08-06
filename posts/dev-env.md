@@ -26,6 +26,14 @@ This will start the installation of `n`. Once it is finished, install the versio
 
 Now we can install our ESLint utilities, like [my config](https://github.com/haykam821/ESLint-Config-Haykam) and [ESLint itself](https://eslint.org/):
 
-    npm install eslint eslint-config-haykam --global
+    npm install -g eslint eslint-config-haykam
+
+We can also install [`nodemon`](https://github.com/remy/nodemon), a CLI tool allowing for automatic restart of scripts when a file changes:
+
+    npm install -g nodemon
+
+Here is a one-liner to install all the packages listed above from NPM:
+
+    npm install -g eslint eslint-config-haykam nodemon
 
 ## Conclusion
