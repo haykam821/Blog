@@ -8,7 +8,7 @@ To get started, we need the Xcode Developer Tools. Although they come preinstall
 
 After this, we can install [Homebrew](https://brew.sh/), a macOS package manager. Run this script:
 
-   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 With Homebrew, we can now install packages without messing up anything ourselves.
 
