@@ -70,4 +70,22 @@ Here is a one-liner to install all the packages listed above from NPM:
 npm install -g eslint eslint-config-haykam nodemon
 ```
 
+## Git
+
+We should already have Git installed from Xcode Command Line Tools.
+
+I prefer [GitHub Desktop](https://desktop.github.com/) as an interface for Git, and it can be installed directly from Homebrew:
+
+```bash
+brew cask install github
+```
+
+Start up GitHub Desktop and configure:
+
+- Log into GitHub.
+- Set the appearance to dark.
+- Change the external editor to Visual Studio Code.
+
+I usually clone the frequently used repos of mine to my disk as well.
+
 ## Conclusion
