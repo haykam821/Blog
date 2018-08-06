@@ -70,6 +70,25 @@ Here is a one-liner to install all the packages listed above from NPM:
 npm install -g eslint eslint-config-haykam nodemon
 ```
 
+## Visual Studio Code
+
+Go ahead and install Visual Studio Code from Homebrew:
+
+```bash
+brew cask install visual-studio-code
+```
+
+My theme is [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) and I use [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) to help me tell apart my files without having to look at the extension.
+
+Here are my main user settings:
+
+```json
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "file-icons",
+}
+```
+
 ## Git
 
 We should already have Git installed from Xcode Command Line Tools.
@@ -84,7 +103,7 @@ Start up GitHub Desktop and configure:
 
 - Log into GitHub.
 - Set the appearance to dark.
-- Change the external editor to Visual Studio Code.
+- Change the external editor to Visual Studio Code, which we installed earlier.
 
 I usually clone the frequently used repos of mine to my disk as well.
 
