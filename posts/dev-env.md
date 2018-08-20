@@ -14,11 +14,11 @@ After this, we can install [Homebrew](https://brew.sh/), a macOS package manager
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-With Homebrew, we can now install packages without messing up anything ourselves.
+With Homebrew, we can now install packages without doing all the dirty work.
 
 ## Quick Look
 
-These are not required to be installed as they just enhance the experience. These plugins extend Quick Look, one of my personal best features on macOS.
+These are not required to be installed as they just enhance the experience. These plugins extend Quick Look, one of my personal favorite features on macOS.
 
 Install all the extensions with this one-liner:
 
@@ -28,7 +28,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 
 ## Internet
 
-I only need one browser to access the internet, Google Chrome, and extra to ensure my web content works on all browsers. Homebrew includes a handy cask feature, which will let us install all of them in one go.
+I only need one browser to access the internet, Google Chrome, although I also use others in order to ensure my web content works on different platforms. Homebrew includes a handy cask feature, which will let us install all of them in one go.
 
 ```bash
 brew cask install google-chrome firefox
