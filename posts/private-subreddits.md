@@ -5,15 +5,22 @@ In the status column, each symbol means a different thing:
 Symbol | Meaning
 :---: | ---
 🏅 | Subreddit restricted to reddit premium members
+👑 | Gained access (as moderator)
 🔑 | Gained access
 ⚪️ | Have not gained access
 ❌ | Cannot gain access (due to entry rules or similar)
 
-## Gold Subreddits
+## Gold
 
 Status | Subreddit | Entry Requirement
 :---: | :---: | ---
 🏅 | [r/Lounge](https://www.reddit.com/r/Lounge/) | have reddit premium
+
+## Gilding
+
+Status | Subreddit | Entry Requirement
+:---: | :---: | ---
+👑 | [r/haykam821gilders](https://www.reddit.com/r/Lounge/) | unanonymously gild [u/haykam821](https://www.reddit.com/u/haykam821)
 
 ## Mega Lounges
 
