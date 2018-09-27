@@ -27,7 +27,7 @@ Status | Subreddit | Entry Requirement
 Status | Subreddit | Entry Requirement
 :---: | :---: | ---
 🔑 | [r/AskReddit_MegaLounge](https://www.reddit.com/r/Askreddit_MegaLounge/) | r/AskReddit for r/MegaLounge members
-🔑 | [r/MegaMusicLounge](https://www.reddit.com/r/MegaMusicLounge/) | Music discussion for r/MegaLounge members
+🔑 | [r/MegaMusicLounge](https://www.reddit.com/r/MegaMusicLounge/) | music discussion for r/MegaLounge members
 🔑 | [r/MegaPets](https://www.reddit.com/r/MegaPets/) | r/Pets for r/MegaLounge members
 🔑 | [r/BestOf_MegaLounge](https://www.reddit.com/r/BestOf_MegaLounge/) | r/BestOf for r/MegaLounge members
 🔑 | [r/MegaWritingLounge](https://www.reddit.com/r/MegaWritingLounge/) | r/Writing for r/MegaLounge members
@@ -38,3 +38,10 @@ Status | Subreddit | Entry Requirement
 :---: | :---: | ---
 ⚪️ | [r/1KClub](https://www.reddit.com/r/1KClub/) | have 1,000 of either karma type
 🔑 | [r/DecadeClub](https://www.reddit.com/r/DecadeClub/) | have 10,000 of either karma type
+
+## Robin
+
+Status | Subreddit | Entry Requirement
+:---: | :---: | ---
+🔑 | [r/soKukunelits](https://www.reddit.com/r/soKukunelits/) | be in the tier 16 robin room, soKukunelits
+🔑 | [r/ccKufiPrFaShleWoli0](https://www.reddit.com/r/ccKufiPrFaShleWoli0/) | be in the tier 17 robin room, ccKufiPrFaShleWoli0
