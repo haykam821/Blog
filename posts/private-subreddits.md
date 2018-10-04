@@ -28,7 +28,7 @@ Status | Subreddit | Entry Requirement
 :---: | :---: | ---
 🔑 | [r/MegaLounge](https://www.reddit.com/r/MegaLounge/) | get gilded in r/Lounge
 🔑 | [r/MegaMegaLounge](https://www.reddit.com/r/MegaMegaLounge/) | get gilded in r/MegaLounge
-⚪️ | [r/MegaMegaMegaLounge](https://www.reddit.com/r/MegaMegaMegaLounge/) | get gilded in r/MegaMegaLounge
+🔑 | [r/MegaMegaMegaLounge](https://www.reddit.com/r/MegaMegaMegaLounge/) | get gilded in r/MegaMegaLounge
 ❌ | [r/MegaLounge2](https://www.reddit.com/r/MegaLounge2/) | be first 19 who were gilded in r/MegaMegaLounge
 ⚪️ | [r/MegaLoungeIV](https://www.reddit.com/r/MegaLoungeIV/) | get gilded in r/MegaMegaMegaLounge
 ⚪️ | [r/MegaLoungeV](https://www.reddit.com/r/MegaLoungeV/) | get gilded in r/MegaLoungeIV
@@ -55,7 +55,7 @@ Status | Subreddit | Entry Requirement
 
 Status | Subreddit | Entry Requirement
 :---: | :---: | ---
-⚪️ | [r/1KClub](https://www.reddit.com/r/1KClub/) | have 1,000+ of either karma type
+🔑 | [r/1KClub](https://www.reddit.com/r/1KClub/) | have 1,000+ of either karma type
 🔑 | [r/DecadeClub](https://www.reddit.com/r/DecadeClub/) | have 10,000+ of either karma type
 ⚪️ | [r/CenturyClub](https://www.reddit.com/r/CenturyClub/) | have 100,000+ of either karma type
 ⚪️ | [r/MegaCenturyClub](https://www.reddit.com/r/MegaCenturyClub/) | have 1,000+ combined karma in r/CenturyClub
