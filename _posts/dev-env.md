@@ -1,4 +1,6 @@
-# Developer Environment Guide
+---
+title: Developer Environment Guide
+---
 
 This is my personal guide to getting a working developer environment from scratch on macOS.
 

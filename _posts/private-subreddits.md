@@ -1,3 +1,7 @@
+---
+title: Private Subreddits
+---
+
 This will be a regularly-updated document that details my progress on gaining access to private subreddits.
 
 In the status column, each symbol means a different thing:
