@@ -34,7 +34,7 @@ Status | Subreddit | Entry Requirement
 🔑 | [r/MegaMegaLounge](https://www.reddit.com/r/MegaMegaLounge/) | get gilded in r/MegaLounge
 🔑 | [r/MegaMegaMegaLounge](https://www.reddit.com/r/MegaMegaMegaLounge/) | get gilded in r/MegaMegaLounge
 ❌ | [r/MegaLounge2](https://www.reddit.com/r/MegaLounge2/) | be first 19 who were gilded in r/MegaMegaLounge
-⚪️ | [r/MegaLoungeIV](https://www.reddit.com/r/MegaLoungeIV/) | get gilded in r/MegaMegaMegaLounge
+🔑 | [r/MegaLoungeIV](https://www.reddit.com/r/MegaLoungeIV/) | get gilded in r/MegaMegaMegaLounge
 ⚪️ | [r/MegaLoungeV](https://www.reddit.com/r/MegaLoungeV/) | get gilded in r/MegaLoungeIV
 ⚪️ | [r/MegaLoungeVI](https://www.reddit.com/r/MegaLoungeVI/) | get gilded in r/MegaLoungeV
 ⚪️ | [r/MegaLoungeVII](https://www.reddit.com/r/MegaLoungeVII/) | get gilded in r/MegaLoungeVI
